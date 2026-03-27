@@ -1,0 +1,12 @@
+from urllib import request
+from django.shortcuts import render
+
+from .models import Post
+# Create your views here.
+def Index(request):
+    posts=Post.objects.all()
+    return render(request, 'Index.html', {'posts': posts})
+
+def post(request,pk):
+    posts=Post.objects.get(id=pk)  
+    return render(request, 'posts.html', {'posts': posts})
