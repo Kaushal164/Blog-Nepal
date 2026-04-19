@@ -30,7 +30,7 @@ A modern, professional Django-based blog application for publishing news article
 
 That's it! No complex setup required.
 
-## 🚀 Quick Start (5 Minutes)
+## Quick Start (5 Minutes)
 
 ### Step 1: Download & Setup
 ```bash
@@ -262,7 +262,7 @@ class PostAdmin(admin.ModelAdmin):
 | Single Article | `/post/1/`, `/post/2/` | Full article content |
 | Admin Panel | `/admin/` | Create/Edit/Delete articles |
 
-## 🎨 Easy Customization
+## Easy Customization
 
 ### Change Your Blog Colors
 
@@ -295,7 +295,7 @@ In `templates/Index.html`, find "About Us" section and replace with your content
 - On Mac, use `python3` instead of `python`
 
 ### "ModuleNotFoundError: No module named 'django'"
-- M🚀 Deploy Online (Make It Live)
+- M Deploy Online (Make It Live)
 
 ### Option 1: Heroku (Easiest for Beginners)
 1. Create account at [heroku.com](https://www.heroku.com)
@@ -343,7 +343,7 @@ Requires more technical knowledge. See their Django deployment guides.
 - Create a Pull Request with improvements
 - Open an Issue with your suggestions
 
-## 🎯 Next Steps
+## Next Steps
 
 1. ✅ Get the project running locally
 2. ✅ Create your first article
@@ -351,11 +351,11 @@ Requires more technical knowledge. See their Django deployment guides.
 4. ✅ Deploy online
 5. ✅ Share with the world!
 
-## 📝 License
+## License
 
 MIT License - Use this project however you want!
 
-## 👨‍💻 Credits
+## Credits
 
 Created in Nepal 🇳🇵 for quality journalism
 
@@ -391,12 +391,12 @@ deactivate
 
 ---
 
-**⭐ Star this project if it helped you! Happy blogging! 🚀**
+** Star this project if it helped you! Happy blogging! **
 - Django framework for excellent documentation
 - Google Fonts for Poppins typeface
 - The open-source community for inspiration
 
-## 📅 Changelog
+## Changelog
 
 ### Version 1.0.0 (2026-03-26)
 - Initial release
@@ -407,6 +407,4 @@ deactivate
 
 ---
 
-**Made with ❤️ from Nepal**
-
-⭐ If you find this project useful, please consider giving it a star on GitHub!
+If you find this project useful, please consider giving it a star on GitHub!
